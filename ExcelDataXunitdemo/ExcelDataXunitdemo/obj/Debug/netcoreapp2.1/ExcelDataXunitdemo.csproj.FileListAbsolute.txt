@@ -1,0 +1,15 @@
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\bin\Debug\netcoreapp2.1\ExcelDataXunitdemo.deps.json
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\bin\Debug\netcoreapp2.1\ExcelDataXunitdemo.runtimeconfig.json
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\bin\Debug\netcoreapp2.1\ExcelDataXunitdemo.runtimeconfig.dev.json
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\bin\Debug\netcoreapp2.1\ExcelDataXunitdemo.dll
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\obj\Debug\netcoreapp2.1\ExcelDataXunitdemo.csprojAssemblyReference.cache
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\obj\Debug\netcoreapp2.1\ExcelDataXunitdemo.csproj.CoreCompileInputs.cache
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\obj\Debug\netcoreapp2.1\ExcelDataXunitdemo.AssemblyInfoInputs.cache
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\obj\Debug\netcoreapp2.1\ExcelDataXunitdemo.AssemblyInfo.cs
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\bin\Debug\netcoreapp2.1\ExcelDataXunitdemo.pdb
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\obj\Debug\netcoreapp2.1\ExcelDataXunitdemo.dll
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\obj\Debug\netcoreapp2.1\ExcelDataXunitdemo.pdb
+C:\Users\georgiana.stan\source\repos\ExcelDataXunitdemo\ExcelDataXunitdemo\bin\Debug\netcoreapp2.1\data.xls
